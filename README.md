@@ -16,4 +16,4 @@ I follow the innovations in the sector up-to-date
 - 💽 MSSQL
 
 ## Contact
-- [@alphanozturk](https://www.linkedin.com/in/alphanozturk/) on LinkedIn
+- [@alphanozturk](https://www.linkedin.com/in/alphan-öztürk-5a5864230/) on LinkedIn
