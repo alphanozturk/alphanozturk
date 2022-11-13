@@ -23,5 +23,4 @@ My name is Alphan. I am 24 years old. I am studied at Azerbaijan Technical Unive
 - [@alp27_](https://www.twitter.com/alp27_) on Twitter
 
 [<img align="left" alt="mazaytsevs | WA" width="60px" src="https://img.icons8.com/color/344/whatsapp--v5.png" />][WA]
-[<img align="left" alt="mazaytsevs | Instagram" width="60px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][[instagram](https://github.com/alphanozturk)]
-
+[<img align="left" alt="mazaytsevs | Instagram" width="60px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][[ins
