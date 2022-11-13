@@ -22,4 +22,4 @@ My name is Alphan. I am 24 years old. I am studied at Azerbaijan Technical Unive
 - [@alp27_](https://www.instagram.com/alp27_) on İnstagram
 - [@alp27_](https://www.twitter.com/alp27_) on Twitter
 
-
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)]([link](https://www.instagram.com/alp27_)) 
