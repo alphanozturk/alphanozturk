@@ -17,3 +17,5 @@ My name is Alphan. I am 24 years old. I am studied at Azerbaijan Technical Unive
 
 ## Contact
 - [@alphanozturk](https://www.linkedin.com/in/alphan-öztürk-5a5864230/) on LinkedIn
+- [@al27_](https://www.instagram.com/alp27_) on İnstagram
+- [@al27_](https://www.twitter.com/alp27_) on Twitter
